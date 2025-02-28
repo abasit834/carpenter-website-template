@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Flooring Contractor NJ. - Carpenter Website Template</title>
+    <title>Flooring Contractor NJ - Carpenter Website Template</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -77,7 +77,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0">
     <a href="index.php" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
-        <h2 class="m-0 text-primary">Flooring Contractor NJ.</h2>
+        <h2 class="m-0 text-primary">Flooring Contractor NJ</h2>
     </a>
     <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
         <span class="navbar-toggler-icon"></span>
@@ -86,9 +86,9 @@
         <div class="navbar-nav ms-auto p-4 p-lg-0">
             <a href="index.php" class="nav-item nav-link <?= basename($_SERVER['PHP_SELF']) == 'index.php' ? 'active' : '' ?>">Home</a>
             <div class="nav-item dropdown">
-                <a href="#" id="about-us" class="nav-link dropdown-toggle <?= in_array(basename($_SERVER['PHP_SELF']), ['about.php','testimonial.php', 'why-us.php', 'faqs.php']) ? 'active' : '' ?>" >About Us</a>
+                <a href="#" id="about-us" class="nav-link dropdown-toggle <?= in_array(basename($_SERVER['PHP_SELF']), ['about.php','testimonials.php', 'why-us.php', 'faqs.php']) ? 'active' : '' ?>" >About Us</a>
                 <div class="dropdown-menu fade-up m-0">
-                    <a href="testimonial.php" class="dropdown-item <?= basename($_SERVER['PHP_SELF']) == 'testimonial.php' ? 'active' : '' ?>">Testimonial</a>
+                    <a href="testimonials.php" class="dropdown-item <?= basename($_SERVER['PHP_SELF']) == 'testimonials.php' ? 'active' : '' ?>">Testimonials</a>
                     <a href="why-us.php" class="dropdown-item <?= basename($_SERVER['PHP_SELF']) == 'why-us.php' ? 'active' : '' ?>">Why Us?</a>
                     <a href="faqs.php" class="dropdown-item <?= basename($_SERVER['PHP_SELF']) == 'faqs.php' ? 'active' : '' ?>">FAQs</a>
                 </div>

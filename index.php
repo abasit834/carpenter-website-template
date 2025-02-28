@@ -59,45 +59,11 @@
     <!-- Feature Start -->
     <div class="container-xxl py-5">
         <div class="container">
-            <div class="row g-5">
-                <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.1s">
-                    <div class="d-flex align-items-center justify-content-between mb-2">
-                        <div class="d-flex align-items-center justify-content-center bg-light" style="width: 60px; height: 60px;">
-                            <i class="fa fa-user-check fa-2x text-primary"></i>
-                        </div>
-                        <h1 class="display-1 text-light mb-0">01</h1>
-                    </div>
-                    <h5>Creative Designers</h5>
-                </div>
-                <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.3s">
-                    <div class="d-flex align-items-center justify-content-between mb-2">
-                        <div class="d-flex align-items-center justify-content-center bg-light" style="width: 60px; height: 60px;">
-                            <i class="fa fa-check fa-2x text-primary"></i>
-                        </div>
-                        <h1 class="display-1 text-light mb-0">02</h1>
-                    </div>
-                    <h5>Quality Products</h5>
-                </div>
-                <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.5s">
-                    <div class="d-flex align-items-center justify-content-between mb-2">
-                        <div class="d-flex align-items-center justify-content-center bg-light" style="width: 60px; height: 60px;">
-                            <i class="fa fa-drafting-compass fa-2x text-primary"></i>
-                        </div>
-                        <h1 class="display-1 text-light mb-0">03</h1>
-                    </div>
-                    <h5>Free Consultation</h5>
-                </div>
-                <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.7s">
-                    <div class="d-flex align-items-center justify-content-between mb-2">
-                        <div class="d-flex align-items-center justify-content-center bg-light" style="width: 60px; height: 60px;">
-                            <i class="fa fa-headphones fa-2x text-primary"></i>
-                        </div>
-                        <h1 class="display-1 text-light mb-0">04</h1>
-                    </div>
-                    <h5>Customer Support</h5>
-                </div>
-            </div>
-        </div>
+        <h1 class="display-5 mb-4">Welcome to Flooring Contractor NJ</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam esse voluptate, incidunt quo sit delectus eius minus hic fugit, error quidem! Aspernatur similique quas error unde minima sint incidunt animi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, ex aliquam excepturi ducimus beatae laudantium accusamus eveniet temporibus consectetur dicta magni quisquam vero maxime quia, neque nisi sed voluptatibus consequatur.Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ab voluptates repellendus? Sapiente autem qui nemo, libero delectus nulla quo nostrum fugit sit illum fugiat explicabo fuga provident modi veniam. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus placeat dolores itaque nam minima maxime, beatae corporis tempore illo, inventore porro, quaerat nobis magni fugit quam obcaecati quidem unde tenetur!
+        </p>
+            
+    </div>
     </div>
     <!-- Feature Start -->
 
@@ -441,6 +407,8 @@
                                 <div class="col-12">
                                     <textarea class="form-control border-0" placeholder="Special Note"></textarea>
                                 </div>
+                                <!-- Captcha -->
+                                <div class="g-recaptcha" data-sitekey="6LfmquMqAAAAABk8yXmVuLlTzrDcYBWLQocNLMBJ"></div>
                                 <div class="col-12">
                                     <button class="btn btn-primary w-100 py-3" type="submit">Submit</button>
                                 </div>
@@ -459,7 +427,7 @@
     <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
             <div class="section-title text-center">
-                <h1 class="display-5 mb-5">Testimonial</h1>
+                <h1 class="display-5 mb-5">Testimonials</h1>
             </div>
             <div class="owl-carousel testimonial-carousel">
                 <div class="testimonial-item text-center">

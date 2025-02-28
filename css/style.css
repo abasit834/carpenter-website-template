@@ -5,6 +5,10 @@
     --dark: #353535;
 }
 
+.contact-bottom
+{
+    padding-top : 10px;
+}
     /* Page Header Styles */
     .page-header {
         background-size: cover;
@@ -103,7 +107,6 @@
     visibility: visible;
     opacity: 1;
 }
-
 
 /*** Button ***/
 .btn {
@@ -254,6 +257,11 @@
         font-size: 30px;
         font-weight: 600;
     }
+
+    .contact-bottom
+    {
+      text-align: center;
+    }
 }
 
 .header-carousel .owl-nav {
@@ -344,16 +352,6 @@
 
 .section-title.text-start h1 {
     padding-left: 0;
-}
-
-.section-title h1::before,
-.section-title h1::after {
-    position: absolute;
-    content: "";
-    width: 45px;
-    height: 5px;
-    bottom: 0;
-    background: var(--dark);
 }
 
 .section-title h1::before {

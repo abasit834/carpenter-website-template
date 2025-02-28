@@ -6,8 +6,7 @@
         <h1 class="display-3 text-white mb-3 animated slideInDown">Contact</h1>
         <nav aria-label="breadcrumb animated slideInDown">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
-                <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li>
+                <li class="breadcrumb-item"><a class="text-white" href="index.php">Home</a></li>
                 <li class="breadcrumb-item text-white active" aria-current="page">Contact</li>
             </ol>
         </nav>
@@ -65,7 +64,9 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="g-recaptcha" data-sitekey="6LdimuQqAAAAAGrNNJCwuceFE1jHIHP1zwYZoxGe"></div>
+                            <div class="g-recaptcha" data-sitekey="6LfmquMqAAAAABk8yXmVuLlTzrDcYBWLQocNLMBJ"></div>
+
+
                             <br/>
                             <div class="col-12">
                                 <button class="btn btn-primary w-100 py-3" type="submit">Send Message</button>
@@ -86,6 +87,15 @@
     </div>
 </div>
 <!-- Contact End -->
+
+<div class="container">
+    <h4 class="contact-bottom">Phone Number </h4>
+    <p class="contact-bottom mb-2"><i class="fa fa-phone-alt me-3"></i><a href="tel:+13472480499">+13472480499</a></p>
+    <h4 class="contact-bottom">Email  </h4>
+    <p class="contact-bottom mb-2"><i class="fa fa-envelope me-3"></i>info@example.com</p>
+    <h4 class="contact-bottom">Address  </h4>
+    <p class="contact-bottom mb-2"><i class="fa fa-map-marker-alt me-3"></i>11 Sussex Rd, East Brunswick, NJ 08816</p>
+</div>
 
 <?php include 'includes/footer.php'; ?>   
 

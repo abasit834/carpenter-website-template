@@ -15,6 +15,10 @@
             </nav>
         </div>
     </div>
+
+    <div class="container">
+        <p class="text-center">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magni, pariatur? Officiis neque laborum impedit veritatis, quidem quibusdam dolores odit autem sapiente inventore porro incidunt eum, animi expedita suscipit repudiandae voluptates!</p>
+    </div>
     <!-- Page Header End -->
 
 <!-- Service Start -->
